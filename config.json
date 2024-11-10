@@ -1,0 +1,33 @@
+{
+  "LOG_CHANNEL_ID": "1299773562336317576",
+  "BANNED_WORDS": [
+  "idiot", "stupid", "loser", "moron", "ugly", "ass",
+  "trash", "dumb", "jerk", "shut up", "shame",
+  "curse", "nasty", "disgusting", "ignorant", "worthless", "sucker", "failure",
+  "creep", "dirtbag", "scum", "pathetic", "scumbag", "garbage", "slob",
+  "pest", "bother", "weird", "psychopath", "abomination", "abuse", "vermin", "villain",
+  "toxic", "traitor", "backstabber", "vicious", "mock", "disgrace", "cretin", "barbarian",
+  "deceitful", "swine", "vulgar", "ill-mannered", "boorish", "uncouth", "cruel", "evil", "spiteful",
+  "wicked", "brat", "wretch", "dope", "moronic", "numbskull", "blockhead", "dimwit",
+  "airhead", "scatterbrain", "halfwit", "simpleton", "dolt", "nincompoop", "dunce", "bozo",
+  "knucklehead", "pea-brain", "low-life", "no-good", "cringe", "appalling", "horrid", "gross", "nigger","nigga","nword",
+  "bitch", "smooth brainer",
+  "idiot", "stupide", "perdant", "abruti", "laid", "ordure", "imbécile", "crétin",
+  "fou", "agaçant", "insulte", "tais-toi", "honte", "dégoûtant",
+  "inutile", "ignorant", "sans valeur", "pervers", "vermine", "salaud", "idiote", "maladroit",
+  "naïf", "ignorant", "serpent", "traitre", "faux-jeton", "sale", "infâme", "affreux",
+  "gros nul", "blaireau", "andouille", "bouffon", "abrutie", "malpoli", "sot", "arrogant", "foutu",
+  "diable", "peste", "bourrin", "malveillant", "injure", "verrue", "horreur", "grotesque",
+  "incapable", "lâche", "pleurnicheur", "moche", "esclave", "vaurien", "impoli", "mauviette",
+  "balourd", "goujat", "malappris", "ignoble", "démon", "charogne", "satanique",
+  "hypocrite", "déchet", "merdique", "saleté", "minable", "pleurniche",
+  "tordu", "ronchon", "répugnant", "épouvantable", "craintif", "détestable", "plouc", "boulet",
+  "cancre", "chiant", "chialeuse", "grognon", "parasite", "larve", "chiffe",
+  "pantin", "vulgaire", "ridicule", "coincé", "politicard"
+  ],
+  "MODERATION_SETTINGS": {
+    "delete_messages": true,
+    "send_dm_warning": true,
+    "warn_in_channel": false
+  }
+}

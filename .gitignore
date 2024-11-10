@@ -1,0 +1,115 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Compiled extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller files
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+cover/
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Sensitive configuration
+.env
+
+# Project-specific directories
+logs/
+logs/*.log
+
+# Development tools
+.pdm.toml
+.pdm-python
+.pdm-build/
+.pybuilder/
+target/
+.site/
+.pyre/
+.pytype/
+.mypy_cache/
+.dmypy.json
+dmypy.json
+.cython_debug/
+
+# IDE configurations
+.idea/
+.vscode/
+.spyderproject
+.spyproject
+.ropeproject
+
+# Flask files
+instance/
+.webassets-cache
+
+# Django
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+# IPython / Jupyter
+.ipynb_checkpoints/
+profile_default/
+ipython_config.py
+
+# Sphinx documentation
+docs/_build/
+
+# Miscellaneous
+*.mo
+*.pot
+*.sage.py
+
+# Unit testing directories
+tests/__pycache__/
+
+# Byte-compiled / optimized / DLL files
+*.dll
